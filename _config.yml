@@ -119,7 +119,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: DeanLemans/deanlemans.github.io # <gh-username>/<repo>
+    repo: DeanLemans/deanlemans.github.io/old-site # <gh-username>/<repo>
     repo_id: R_kgDOM8u_aw
     category: comments
     category_id: DIC_kwDOM8u_a84CjP3c
